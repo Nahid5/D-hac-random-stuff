@@ -1,0 +1,24 @@
+
+Spelling with Chemistry
+
+The periodic table of elements is a table of all the chemical elements that have been discovered and classified, and is something that we all have a bit of familiarity with. Today’s challenge involves using that table of elements that we all know and love to spell words that are inputted by a user.
+The Challenge
+
+Today’s goal is to spell user-inputted words with elements from the periodic table by using their 1-2 letter chemical symbol. For example, given the input:
+
+luck
+functions
+bacon
+poison
+sickness
+ticklish
+
+The program should output:
+
+LuCK (lutetium, carbon, potassium)
+FUNCTiONS (flourine, uranium, nitrogen, carbon, titanium, oxygen, nitrogen, sulfur)
+BaCoN (barium, cobalt, nitrogen)
+POISON (phosphorus, oxygen, iodine, sulfur, oxygen, nitrogen)
+SiCKNeSS (silicon, carbon, potassium, neon, sulfur, sulfur)
+TiCKLiSH (titanium, carbon, potassium, lithium, sulfur, hydrogen)
+
